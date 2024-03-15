@@ -1,3 +1,6 @@
 [submodule "Go"]
 	path = Go
 	url = https://github.com/contactamitpanddey/Go.git
+[submodule "Next.js"]
+	path = Next.js
+	url = https://github.com/contactamitpanddey/Next.js.git
