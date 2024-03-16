@@ -28,9 +28,8 @@ This command will build the Docker images for each component and start the conta
 - Next.js (TypeScript) Application: http://localhost:3000
 - WordPress: http://localhost:8000
 
-### Additional Documentation
-
-- [Go Application Documentation](./go-app/README.md)
-- [Next.js (TypeScript) Application Documentation](./nextjs-app/README.md)
-- [WordPress Documentation](./wordpress/README.md)
+Here is the Docker Hub Image 
+-docker pull contactamitpanddey/go-app:latest
+-docker pull contactamitpanddey/wordpress-site:latest
+-docker pull contactamitpanddey/next-app:latest
 
