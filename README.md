@@ -30,6 +30,8 @@ This command will build the Docker images for each component and start the conta
 
 Here is the Docker Hub Image 
 -docker pull contactamitpanddey/go-app:latest
+
 -docker pull contactamitpanddey/wordpress-site:latest
+
 -docker pull contactamitpanddey/next-app:latest
 
