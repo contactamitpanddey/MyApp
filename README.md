@@ -29,9 +29,9 @@ This command will build the Docker images for each component and start the conta
 - WordPress: http://localhost:8000
 
 Here is the Docker Hub Image 
--docker pull contactamitpanddey/go-app:latest
+1.docker pull contactamitpanddey/go-app:latest
 
--docker pull contactamitpanddey/wordpress-site:latest
+2.docker pull contactamitpanddey/wordpress-site:latest
 
--docker pull contactamitpanddey/next-app:latest
+3.docker pull contactamitpanddey/next-app:latest
 
